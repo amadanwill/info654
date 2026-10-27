@@ -1,5 +1,5 @@
 body  {
-  font-size: 15px;
+  font-size: 13px;
   font-family: lato, helvetica, sans-serif;
   letter-spacing: 0.5px;
   background-color: #410B26;
@@ -13,6 +13,7 @@ table  {
 
 h1 {
   font-weight: bold;
+  font-size: 18px;
 }
 
 th, td  {
