@@ -61,17 +61,25 @@ th, td  {
   padding: 10px;
 }
 
-li.page {
+li.nav-page {
   display: block;
   padding: 8px 16px;
+}
+
+li.nav-page:hover  {
+  background-color: white;
+}
+
+a.page {
   text-decoration: none;
   color: white;
 }
 
-li.page:hover  {
-  background-color: white;
+a.page:hover {
   color: #410B26;
 }
+
+  
 
 .horizontal-line  {
   clear: left;
