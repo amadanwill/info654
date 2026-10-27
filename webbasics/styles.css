@@ -61,14 +61,14 @@ th, td  {
   padding: 10px;
 }
 
-a.page {
+li.page {
   display: block;
   padding: 8px 16px;
   text-decoration: none;
   color: white;
 }
 
-a.page:hover  {
+li.page:hover  {
   background-color: white;
   color: #410B26;
 }
